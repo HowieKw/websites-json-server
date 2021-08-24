@@ -5,35 +5,135 @@
       "name": "NewStylish",
       "image": "https://d2euz5hho4dp59.cloudfront.net/images/logos/1/newstylish-logo.png?t=1625675671",
       "url": "https://newstylish.com/#/home",
-      "likes": 8
+      "description":"NewStylish was founded in 2011 to rejuvenate old and boring men's fashion.",
+      "likes": 8,
+      "comments": [
+        {
+          "id": 1,
+          "user": "RejuvenatedMan",
+          "comment": "Definitely upgraded my style! Everything arrived in the mail."
+        }
+      ]
     },
     {
       "id": 2,
       "name": "YESSTYLE",
       "image": "https://ddvql06zg3s2o.cloudfront.net/Assets/res/p/2827/imgs/yesstyle_logo.svg",
       "url": "https://www.yesstyle.com/en/home.html",
-      "likes": 14
+      "description":"To become the go-to E-commerce gateway that bridges Asian products with customers worldwide.",
+      "likes": 14,
+      "comments": [
+        {
+          "id": 1,
+          "user": "OHMAYBE",
+          "comment": "It is a hit or miss. Some items were exactly as pictured, others fell through."
+        }
+      ]
     },
     {
       "id": 3,
       "name": "YOINS",
       "image": "https://static.yoins.com/newWeb/static/images/yoins_logo.png",
       "url": "https://us.yoins.com/?home=women",
-      "likes": 3
+      "description":"We make fashion both unique and affordable, so everyone can get his/her wardrobe filled with the latest trend and be confidence to be whoever they want to be.",
+      "likes": 3,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Ugh",
+          "comment": "Bought a couple of items. Each day there was an issue, so it kept getting delayed. Had to cancel my purchase, luckily got my money back."
+        }
+      ]
     },
     {
       "id": 4,
       "name": "Civil Regime",
       "image": "https://cdn.shopify.com/s/files/1/1621/8265/files/CIVBLK_140x.png?v=1515698662",
       "url": "https://shop.civilclothing.com/",
-      "likes": 4
+      "description":"Unique and edgy clothes for those who go off the beaten path.",
+      "likes": 4,
+      "comments": [
+        {
+          "id": 1,
+          "user": "Feet Styling",
+          "comment": "Bought some boots and they look awesome!"
+        },
+        {
+          "id": 2,
+          "user": "ConfusedButLikingIt",
+          "comment": "Shoes? They only deal with clothes and accessories. It looks like they changes up what they sell. Love the unique items."
+        }
+      ]
     },
     {
       "id": 5,
       "name": "Peach & Lily",
       "image": "https://cdn.accentuate.io/7912083/1604332176525/Peach--Lily-NEW.svg?v=0",
       "url": "https://www.peachandlily.com/",
-      "likes": 1
+      "description":"Our mission is simple – to empower you to transform your own skin. Whatever your skin concern, skin struggle, or skin goal, we want to provide you with the knowledge and Korean skincare products you need to achieve your best and most healthy skin yet.",
+      "likes": 1,
+      "comments": [
+        {
+          "id": 1,
+          "user": "BeautyGuru",
+          "comment": "They always have the best Korean products, and shipped so quickly too!"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Pact Coffee",
+      "image": "https://res.cloudinary.com/pactcoffee/image/upload/v1609756428/Brand_Image_1_tobgye.jpg",
+      "url": "https://www.pactcoffee.com/",
+      "description":"Since 2012, we've been on a quest to transform the coffee industry while bringing amazing coffee to the lips of the nation.",
+      "likes": 5,
+      "comments": [
+        {
+          "id": 1,
+          "user": "CaffieneAddict",
+          "comment": "Great coffee, and ethically sourced! Sign me up!"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Pet Flow",
+      "image": "https://www.findsubscriptionboxes.com/wp-content/uploads/2018/01/petflow-logo.png",
+      "url": "https://www.petflow.com/",
+      "description":"With every purchase you make, a bowl of food is donated to a pet in need.",
+      "likes": 4,
+      "comments": [
+        {
+          "id": 1,
+          "user": "DogMom",
+          "comment": "Has a great variety of items."
+        },
+        {
+          "id": 2,
+          "user": "UnhappyKitty",
+          "comment": "So expensive! None of my items shipped on time, and some of them never even arrived!"
+        },
+        {
+          "id": 3,
+          "user": "TishaPup",
+          "comment": "HORRIBLE SERVICE"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Birkenstock",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTVVZiwEHlWyX4l6LtoQqwQyByfE7-VsQLg&usqp=CAU",
+      "url": "https://www.birkenstock.com/us",
+      "description":"At Birkenstock, tradition and heritage are important hallmarks of a brand that dates back not years or even decades, but centuries. Birkenstock is deeply rooted in the fine art of crafting premium quality shoes that are good for you.",
+      "likes": 7,
+      "comments": [
+        {
+          "id": 1,
+          "user": "HappyFeet",
+          "comment": "Love my new Birckenstock sandals!"
+        }
+      ]
     }
   ]
 }

@@ -34,6 +34,32 @@
       "image": "https://cdn.accentuate.io/7912083/1604332176525/Peach--Lily-NEW.svg?v=0",
       "url": "https://www.peachandlily.com/",
       "likes": 1
+    },
+
+    {
+      "id": 6,
+      "name": "Pact Coffee",
+      "image": "https://res.cloudinary.com/pactcoffee/image/upload/v1609756428/Brand_Image_1_tobgye.jpg",
+      "url": "https://www.pactcoffee.com/",
+      "likes": 5
+    },
+
+    {
+      "id": 7,
+      "name": "Pet Flow",
+      "image": "https://www.findsubscriptionboxes.com/wp-content/uploads/2018/01/petflow-logo.png",
+      "url": "https://www.petflow.com/",
+      "likes": 4
+    },
+
+    {
+      "id": 8,
+      "name": "Birkenstock",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvTVVZiwEHlWyX4l6LtoQqwQyByfE7-VsQLg&usqp=CAU",
+      "url": "https://www.birkenstock.com/us",
+      "likes": 7
     }
+
+    
   ]
 }
